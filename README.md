@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/1e982AB.gif" align="center" width="150px">
+  <img src="https://i.imgur.com/uWGBDa5.jpg" align="center" width="150px">
  </div>
 <h2 align="center">Bom dia, tarde ou noite! 😊</h2>
 
