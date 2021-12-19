@@ -29,12 +29,16 @@
 
   <span><b>Estou desenvolvendo lojas para as seguintes plataformas:</b><br>
     <img src="https://i.imgur.com/eDEo9iW.png" align="center" width="60px">
+    <img src="https://i.imgur.com/lnmGan5.jpg" align="center" width="60px">
     <img src="https://i.imgur.com/6Im1EnJ.png" align="center" width="60px">
+    <img src="https://i.imgur.com/D7uDBSj.png" align="center" width="60px">
+    <img src="https://i.imgur.com/kWrrCnR.png" align="center" width="60px">
   </span>
 <p><b>No momento estou estudando:</b><br>
  <img src="https://i.imgur.com/h6MyG8t.png" align="center" width="30px">
  <img src="https://i.imgur.com/siyvtmB.png" align="center" width="30px">
- <img src="https://i.imgur.com/AfO9tNh.png" align="center" width="30px"><p>
+ <img src="https://i.imgur.com/AfO9tNh.png" align="center" width="30px">
+<p>
 
 <p><b>Tenho interesse em aprender:</b><br>
  <img src="https://i.imgur.com/MVvFozF.png" align="center" width="30px">
