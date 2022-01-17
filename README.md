@@ -12,8 +12,8 @@
 
 <p>Após concluir o curso de ADS, comecei a faculdade de Ciência da Computação que é onde estou hoje 😆.</p>
 
-<p>💼 No momento trabalho na empresa Auaha - Agência de Ecommerce como desenvolvedor Front-end.<br>
-<img src="https://i.imgur.com/SOVtZPU.gif" width="100px" heigth="10px"></p>
+<p>💼 No momento trabalho na empresa <b>Corebiz Global</b> como desenvolvedor Front-end.<br><br>
+<img src="https://i.postimg.cc/FsrQpd4j/corebiz-nbpress-2.jpg" width="100px" heigth="100px"></p>
   <h2>- Conhecimento técnico</h2>
   <table border="none" align="center">
 <tr>
@@ -23,16 +23,18 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>JS/JQUERY</li>
-    <li>PHP</li>
+    <li>ReactJS</li>
     </ul>
 </table>
-
+  <span><b>Tenho experiência nas plataformas:</b><br>
+  <img src="https://i.imgur.com/eDEo9iW.png" align="center" width="60px">
+  <img src="https://i.imgur.com/lnmGan5.jpg" align="center" width="60px">
+  <img src="https://i.imgur.com/D7uDBSj.png" align="center" width="60px">
+  <img src="https://i.imgur.com/kWrrCnR.png" align="center" width="60px">
+  </span>
+  
   <span><b>Estou desenvolvendo lojas para as seguintes plataformas:</b><br>
-    <img src="https://i.imgur.com/eDEo9iW.png" align="center" width="60px">
-    <img src="https://i.imgur.com/lnmGan5.jpg" align="center" width="60px">
     <img src="https://i.imgur.com/6Im1EnJ.png" align="center" width="60px">
-    <img src="https://i.imgur.com/D7uDBSj.png" align="center" width="60px">
-    <img src="https://i.imgur.com/kWrrCnR.png" align="center" width="60px">
   </span>
 <p><b>No momento estou estudando:</b><br>
  <img src="https://i.imgur.com/h6MyG8t.png" align="center" width="30px">
