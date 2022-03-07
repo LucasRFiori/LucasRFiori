@@ -1,5 +1,4 @@
 <h2 align="center">Bom dia, tarde ou noite! 😊</h2>
-
 <h2>- Minha trajetória:</h2>
 <p>Me chamo <b>Lucas Fiori</b>, tenho 19 anos e é um prazer ter você aqui.</p>
 
@@ -12,17 +11,6 @@
 <p>💼 No momento trabalho na empresa <b>Corebiz Global</b> como desenvolvedor Front-end.<br><br>
 <img src="https://i.postimg.cc/FsrQpd4j/corebiz-nbpress-2.jpg" width="100px" heigth="100px"></p>
   <h2>- Conhecimento técnico</h2>
-  <table border="none" align="center">
-<tr>
-  <td><img src="https://i.imgur.com/CpombmN.gif" align="center"></td>
-  <td>Linguagens que posso te ajudar:
-    <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JS/JQUERY</li>
-    <li>ReactJS</li>
-    </ul>
-</table>
   <span><b>Tenho experiência nas plataformas:</b><br>
   <img src="https://i.imgur.com/eDEo9iW.png" align="center" width="60px">
   <img src="https://i.imgur.com/lnmGan5.jpg" align="center" width="60px">
@@ -54,6 +42,15 @@
   <p>Quando se olha muito tempo para um abismo, o abismo olha para você.</p>
   <p>-Friedrich Nietzsche</p>
 </blockquote>
+  
+  <div align="left">
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasrfiori&show_icons=true&theme=radical" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrfiori&layout=compact" />
+</a>
+  </div>
 
 
 
