@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/uWGBDa5.jpg" align="center" width="150px">
- </div>
 <h2 align="center">Bom dia, tarde ou noite! 😊</h2>
 
 <h2>- Minha trajetória:</h2>
