@@ -19,6 +19,7 @@
  <img src="https://i.imgur.com/h6MyG8t.png" align="center" width="30px">
  <img src="https://i.imgur.com/siyvtmB.png" align="center" width="30px">
  <img src="https://i.imgur.com/MVvFozF.png" align="center" width="30px">
+ <img src="https://i.imgur.com/Psb1kUT.png" align="center" width="30px">
 <p>
 
 <p><b>Tenho interesse em aprender:</b><br>
