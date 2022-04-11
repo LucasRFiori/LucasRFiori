@@ -16,16 +16,11 @@
     <img src="https://i.imgur.com/6Im1EnJ.png" align="center" width="60px">
   </span>
 <p><b>No momento estou estudando:</b><br>
- <img src="https://i.imgur.com/h6MyG8t.png" align="center" width="30px">
- <img src="https://i.imgur.com/siyvtmB.png" align="center" width="30px">
- <img src="https://i.imgur.com/MVvFozF.png" align="center" width="30px">
- <img src="https://i.imgur.com/Psb1kUT.png" align="center" width="30px">
+ <img src="https://skillicons.dev/icons?i=js,ts,react,graphql" align="center">
 <p>
 
 <p><b>Tenho interesse em aprender:</b><br>
- <img src="https://i.imgur.com/AfO9tNh.png" align="center" width="30px">
- <img src="https://i.imgur.com/p1SDBzN.png" align="center" width="30px">
- <img src="https://i.imgur.com/y2A8Pvf.png" align="center" width="30px"><p>
+ <img src="https://skillicons.dev/icons?i=nodejs,python,ruby" align="center">
  
   <h2>- Considerações Finais</h2>
   
