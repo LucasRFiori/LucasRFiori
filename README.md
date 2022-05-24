@@ -34,14 +34,6 @@
 </blockquote>
   
   <div align="left">
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasrfiori&show_icons=true&theme=radical" />
-</a>
-  </br>
-  </br>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrfiori&layout=compact" />
-</a>
   </div>
 
 
