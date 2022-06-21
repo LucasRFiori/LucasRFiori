@@ -2,7 +2,7 @@
 <h2>- Minha trajetória:</h2>
 <p>Me chamo <b>Lucas Fiori</b>, tenho 19 anos e é um prazer ter você aqui.</p>
 
-<p>💼 No momento trabalho na empresa <b>Corebiz Global</b> como desenvolvedor Front-end.<br><br>
+<p>💼 No momento trabalho na empresa <b>ACCT Global</b> como Software Engineer.<br><br>
 <img src="https://i.postimg.cc/FsrQpd4j/corebiz-nbpress-2.jpg" width="100px" heigth="100px"></p>
   <h2>- Conhecimento técnico</h2>
   <span><b>Tenho experiência nas plataformas:</b><br>
