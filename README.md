@@ -3,7 +3,7 @@
 <p>Me chamo <b>Lucas Fiori</b>, tenho 20 anos e é um prazer ter você aqui.</p>
 
 <p>💼 No momento trabalho na empresa <b>ACCT Global</b> como Software Engineer.<br><br>
-<img src="https://i.postimg.cc/FsrQpd4j/corebiz-nbpress-2.jpg" width="100px" heigth="100px"></p>
+<img src="https://nerdin.com.br/img/empresa/1176.png" width="200px"></p>
   <h2>- Conhecimento técnico</h2>
   <span><b>Tenho experiência nas plataformas:</b><br>
   <img src="https://i.imgur.com/eDEo9iW.png" align="center" width="60px">
