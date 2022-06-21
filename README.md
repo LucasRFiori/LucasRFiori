@@ -1,6 +1,6 @@
 <h2 align="center">Bom dia, tarde ou noite! 😊</h2>
 <h2>- Minha trajetória:</h2>
-<p>Me chamo <b>Lucas Fiori</b>, tenho 19 anos e é um prazer ter você aqui.</p>
+<p>Me chamo <b>Lucas Fiori</b>, tenho 20 anos e é um prazer ter você aqui.</p>
 
 <p>💼 No momento trabalho na empresa <b>ACCT Global</b> como Software Engineer.<br><br>
 <img src="https://i.postimg.cc/FsrQpd4j/corebiz-nbpress-2.jpg" width="100px" heigth="100px"></p>
