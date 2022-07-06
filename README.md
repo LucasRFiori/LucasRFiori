@@ -15,8 +15,13 @@
   <span><b>Estou desenvolvendo lojas para as seguintes plataformas:</b><br>
     <img src="https://i.imgur.com/6Im1EnJ.png" align="center" width="60px">
   </span>
+  
+<p><b>Posso te ajudar em:</b><br>
+ <img src="https://skillicons.dev/icons?i=js,ts,react" align="center">
+<p>
+
 <p><b>No momento estou estudando:</b><br>
- <img src="https://skillicons.dev/icons?i=js,ts,react,graphql" align="center">
+ <img src="https://skillicons.dev/icons?i=gatsby,next,graphql" align="center">
 <p>
 
 <p><b>Tenho interesse em aprender:</b><br>
