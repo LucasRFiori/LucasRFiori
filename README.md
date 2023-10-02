@@ -21,7 +21,7 @@
 <p>
 
 <p><b>No momento estou estudando:</b><br>
- <img src="https://skillicons.dev/icons?i=gatsby,next,jest" align="center">
+ <img src="https://skillicons.dev/icons?i=gatsby,next,nestjs,jest" align="center">
 <p>
 
 <p><b>Tenho interesse em aprender:</b><br>
