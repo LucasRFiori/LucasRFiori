@@ -17,7 +17,7 @@
   </span>
   
 <p><b>Posso te ajudar em:</b><br>
- <img src="https://skillicons.dev/icons?i=js,ts,react" align="center">
+ <img src="https://skillicons.dev/icons?i=js,nodejs,ts,react" align="center">
 <p>
 
 <p><b>No momento estou estudando:</b><br>
@@ -25,7 +25,7 @@
 <p>
 
 <p><b>Tenho interesse em aprender:</b><br>
- <img src="https://skillicons.dev/icons?i=nodejs,python,ruby" align="center">
+ <img src="https://skillicons.dev/icons?i=python,ruby" align="center">
  
   <h2>- Considerações Finais</h2>
   
