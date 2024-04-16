@@ -16,7 +16,7 @@
   </span>
   
 <p><b>Posso te ajudar em:</b><br>
- <img src="https://skillicons.dev/icons?i=js,nodejs,ts,react,next,graphql" align="center">
+ <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,next,graphql,tailwind,prisma,mongo,postgres" align="center">
 <p>
 
 <p><b>No momento estou estudando:</b><br>
