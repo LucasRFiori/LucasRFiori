@@ -16,11 +16,11 @@
   </span>
   
 <p><b>Posso te ajudar em:</b><br>
- <img src="https://skillicons.dev/icons?i=js,nodejs,ts,react,graphql" align="center">
+ <img src="https://skillicons.dev/icons?i=js,nodejs,ts,react,next,graphql" align="center">
 <p>
 
 <p><b>No momento estou estudando:</b><br>
- <img src="https://skillicons.dev/icons?i=gatsby,next,nestjs,jest" align="center">
+ <img src="https://skillicons.dev/icons?i=nestjs,jest" align="center">
 <p>
 
 <p><b>Tenho interesse em aprender:</b><br>
