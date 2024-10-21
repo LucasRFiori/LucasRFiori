@@ -1,5 +1,5 @@
 <h2 align="center">Bom dia, tarde ou noite! 😊</h2>
-<p>Me chamo <b>Lucas Fiori</b>, tenho 21 anos e é um prazer ter você aqui.</p>
+<p>Me chamo <b>Lucas Fiori</b>, tenho 22 anos e é um prazer ter você aqui.</p>
 
 <p>💼 No momento trabalho na empresa <b>Quality Digital</b> como Software Engineer.<br><br>
   <h2>- Conhecimento técnico</h2>
