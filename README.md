@@ -24,6 +24,9 @@
 
 <p><b>I am interested in learning:</b><br>
  <img src="https://skillicons.dev/icons?i=python,ruby" align="center">
+<br>
+<br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/lucasfiori2002.png" alt="Your Image Badge" />
  
   <h2>- Final Considerations</h2>
   
