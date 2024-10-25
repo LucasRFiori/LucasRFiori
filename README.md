@@ -26,7 +26,7 @@
  <img src="https://skillicons.dev/icons?i=python,ruby" align="center">
 <br>
 <br>
-  <a href="https://tryhackme.com/r/p/lucasfiori2002">
+  <a href="https://tryhackme.com/r/p/lucasfiori2002" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/lucasfiori2002.png" alt="Your Image Badge" />
   </a>
  
