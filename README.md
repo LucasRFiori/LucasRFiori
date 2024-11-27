@@ -1,7 +1,7 @@
 <h2 align="center">Good morning, afternoon, or evening! 😊</h2>
 <p>My name is <b>Lucas Fiori</b>, I am 22 years old, and it's a pleasure to have you here.</p>
 
-<p>💼 Currently, I work at <b>Quality Digital</b> as a Software Engineer.<br><br>
+<p>💼 Currently, I work at <b>910 Advisors</b> as a Developer.<br><br>
   <h2>- Technical Knowledge</h2>
   <span><b>I have experience with the following platforms:</b><br>
   <img src="https://i.imgur.com/eDEo9iW.png" align="center" width="60px">
