@@ -37,7 +37,7 @@
   <p>See you later!</p>
 
 <blockquote cite="http://developer.mozilla.org">
-  <p>If you gaze long enough into an abyss, the abyss will gaze back into you.</p>
+  <p>if you gaze long into an abyss, the abyss also gazes into you.</p>
   <p>-Friedrich Nietzsche</p>
 </blockquote>
   
