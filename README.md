@@ -8,10 +8,7 @@
   <img src="https://i.imgur.com/lnmGan5.jpg" align="center" width="60px">
   <img src="https://i.imgur.com/D7uDBSj.png" align="center" width="60px">
   <img src="https://i.imgur.com/kWrrCnR.png" align="center" width="60px">
-  </span>
-  
-  <span><b>I am developing stores for the following platforms:</b><br>
-    <img src="https://i.imgur.com/6Im1EnJ.png" align="center" width="60px">
+  <img src="https://i.imgur.com/6Im1EnJ.png" align="center" width="60px">
   </span>
   
 <p><b>I can help you with:</b><br>
