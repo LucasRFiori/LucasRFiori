@@ -92,8 +92,8 @@ I love meeting new people and exchanging ideas! ☕
 
 **Especially if it's to grab a coffee and talk about technology, career, or random topics.**
 
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin)
-[![Email](https://img.shields.io/badge/-Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email)
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-r-fiori/)
+[![Email](https://img.shields.io/badge/-Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasfiori2002@gmail.com)
 
 ---
 
