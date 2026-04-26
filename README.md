@@ -66,6 +66,9 @@ Passionate developer currently working at **Stratify Holdings** creating innovat
 <a href="https://www.credly.com/badges/c3c6daf2-bc94-45fa-803c-5bb4ac81ed14/public_url" target="_blank" style="text-decoration: none; display: block;">
   <img src="https://images.credly.com/size/340x340/images/1b037d47-6af2-41d5-8b6b-0cbb9573aec1/blob" alt="Prophet P21 Certification" width="140" />
 </a>
+<a href="https://sforce.co/verifycerts" target="_blank" style="text-decoration: none; display: block;">
+  <img src="https://i.imgur.com/hUdKSQU.png" alt="Salesforce Associate" width="140" />
+</a>
 
 </div>
 
