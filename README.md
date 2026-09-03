@@ -2,7 +2,7 @@
 
 # 👋 Hello! I'm Lucas Fiori
 
-### Full Stack Developer | 23 years old | Stratify Holdings
+### Full Stack Developer | 24 years old | Stratify Holdings
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-r-fiori/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasRFiori)
